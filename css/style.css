@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: rgb(179, 112, 243);
+    color: darkred;
+    text-align: center;
+    height: 90px;
+    font-size: 80px;
+    word-spacing: 80px;
+}
+.nav{
+    background-color: grey;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    height: 70px;
+    font-size: 60px;
+    word-spacing: 500px;
+}
+.content{
+    overflow: hidden;
+}
+.left{
+    background-color:burlywood ;
+    width: 70%;
+    height: 400px;
+    float: left;
+    overflow: hidden;
+}
+.aside{
+    background-color: cadetblue;
+    color: black;
+    text-align: center;
+    width: 30%;
+    height: 400px;
+    float: left;
+    font-size: 120px;
+    writing-mode: vertical-lr;
+}
+.section{
+    background-color: rgb(255, 0, 0);
+    color: rgb(29, 0, 56);
+    text-align: center;
+    height: 75px;
+    font-size: 60px;
+}
+.heading{
+    background-color: rgb(189, 4, 4);
+    color: rgb(76, 1, 146);
+    text-align: center;
+    height: 75px;
+    font-size: 75px;
+}
+.article{
+    background-color: rgb(110, 1, 1);
+    color: blueviolet;
+    text-align: center;
+    height: 250px;
+    font-size: 200px;
+}
+.footer{
+    background-color: goldenrod;
+    color: rgb(29, 0, 56);
+    text-align: center;
+    height: 150px;
+    font-size: 150px;
+    word-spacing: 100px;
+}
